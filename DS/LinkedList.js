@@ -174,8 +174,6 @@ class LinkedList {
   }
 }
 
-
-
 // Complexities
 // Time Complexity
 // Access = O(n) => need to traverse list
